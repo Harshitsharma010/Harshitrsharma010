@@ -132,15 +132,14 @@ const harshit = {
 
 ## GitHub Snapshot
 
-<div align="center">
-
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitsharma010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitsharma010&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub streak](https://streak-stats.demolab.com?user=Harshitsharma010&theme=tokyonight&hide_border=true)
-
-</div>
+| Area | Highlights |
+| --- | --- |
+| Main work | Cybersecurity tools, AI assistants, phishing detection, dashboards |
+| Current repos | TrustNet CyberCop, Local AI RAG Assistant, SafeLink AI, Team Task Manager |
+| Languages | Python, TypeScript, JavaScript |
+| Backend | Flask, ML inference APIs, local AI workflows |
+| Frontend | React dashboards, browser extension interfaces |
+| Deployment | Docker, AWS-ready project structure |
 
 ---
 
