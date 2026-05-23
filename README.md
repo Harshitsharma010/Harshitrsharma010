@@ -2,6 +2,8 @@
 
 # Hi, I'm Harshit Sharma
 
+<!-- Profile README for github.com/Harshitsharma010 -->
+
 ### Cybersecurity and AI builder turning ideas into working products
 
 I build practical security-focused projects: phishing detection systems, AI assistants,
