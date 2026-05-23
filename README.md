@@ -4,10 +4,10 @@
 
 <!-- Profile README for github.com/Harshitsharma010 -->
 
-### Cybersecurity and AI builder turning ideas into working products
+### Cybersecurity and AI builder
 
-I build practical security-focused projects: phishing detection systems, AI assistants,
-browser extensions, ML APIs, dashboards, and cloud-ready full-stack apps.
+I turn security ideas into working products: phishing detection systems,
+local AI assistants, browser workflows, ML APIs, dashboards, and cloud-ready apps.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Harshitsharma010-111827?style=for-the-badge&logo=github)](https://github.com/Harshitsharma010)
 [![Followers](https://img.shields.io/github/followers/Harshitsharma010?style=for-the-badge&logo=github&label=Followers)](https://github.com/Harshitsharma010?tab=followers)
@@ -21,10 +21,10 @@ browser extensions, ML APIs, dashboards, and cloud-ready full-stack apps.
 
 ```js
 const harshit = {
-  focus: ["Cybersecurity", "AI/ML", "Full-stack projects", "Cloud deployment"],
+  focus: ["Cybersecurity", "AI/ML", "Full-stack engineering", "Cloud deployment"],
   building: ["phishing detection", "local AI assistants", "safe link scanners", "product dashboards"],
   stack: ["Python", "Flask", "scikit-learn", "React", "TypeScript", "JavaScript", "Docker", "AWS"],
-  goal: "Build projects that are not just demos, but usable security products."
+  goal: "Build practical tools that feel useful, not just impressive."
 };
 ```
 
@@ -38,7 +38,7 @@ const harshit = {
       <h3>TrustNet CyberCop</h3>
       <p>ML-powered phishing URL detection platform with Flask API, trained RandomForest model, React dashboard, Chrome extension flow, Docker support, and AWS deployment config.</p>
       <p>
-        <a href="https://github.com/Harshitsharma010/trustnet-cybercop">Repository</a>
+        <a href="https://github.com/Harshitsharma010/trustnet-cybercop"><strong>View repository</strong></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript" />
@@ -50,7 +50,7 @@ const harshit = {
       <h3>Local AI RAG Assistant</h3>
       <p>Offline RAG-based AI assistant using LangChain, ChromaDB, and Ollama for local document question answering and private AI workflows.</p>
       <p>
-        <a href="https://github.com/Harshitsharma010/local-ai-rag-assistant">Repository</a>
+        <a href="https://github.com/Harshitsharma010/local-ai-rag-assistant"><strong>View repository</strong></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
@@ -64,7 +64,7 @@ const harshit = {
       <h3>SafeLink AI</h3>
       <p>JavaScript project focused on safer link analysis and security-first URL checking workflows.</p>
       <p>
-        <a href="https://github.com/Harshitsharma010/safelink-ai">Repository</a>
+        <a href="https://github.com/Harshitsharma010/safelink-ai"><strong>View repository</strong></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript" />
@@ -75,7 +75,7 @@ const harshit = {
       <h3>Team Task Manager</h3>
       <p>Task management project showing full-stack product thinking, team workflows, and clean application structure.</p>
       <p>
-        <a href="https://github.com/Harshitsharma010/Team-Task-Manager">Repository</a>
+        <a href="https://github.com/Harshitsharma010/Team-Task-Manager"><strong>View repository</strong></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript" />
@@ -84,19 +84,6 @@ const harshit = {
     </td>
   </tr>
 </table>
-
----
-
-## Project Cards
-
-<div align="center">
-
-[![TrustNet CyberCop](https://github-readme-stats.vercel.app/api/pin/?username=Harshitsharma010&repo=trustnet-cybercop&theme=tokyonight&hide_border=true)](https://github.com/Harshitsharma010/trustnet-cybercop)
-[![Local AI RAG Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Harshitsharma010&repo=local-ai-rag-assistant&theme=tokyonight&hide_border=true)](https://github.com/Harshitsharma010/local-ai-rag-assistant)
-[![SafeLink AI](https://github-readme-stats.vercel.app/api/pin/?username=Harshitsharma010&repo=safelink-ai&theme=tokyonight&hide_border=true)](https://github.com/Harshitsharma010/safelink-ai)
-[![Team Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=Harshitsharma010&repo=Team-Task-Manager&theme=tokyonight&hide_border=true)](https://github.com/Harshitsharma010/Team-Task-Manager)
-
-</div>
 
 ---
 
@@ -124,15 +111,15 @@ const harshit = {
 ## Current Focus
 
 - Building stronger cybersecurity projects with real detection logic.
-- Improving ML-backed APIs with better validation, metrics, and deployment readiness.
-- Creating clean dashboards that make technical results easy to understand.
-- Learning cloud, DevOps, and AI workflows by shipping complete projects.
+- Improving ML-backed APIs with validation, metrics, and deployment readiness.
+- Creating dashboards that make technical results easy to understand.
+- Learning cloud, DevOps, and AI by shipping complete projects.
 
 ---
 
 ## GitHub Snapshot
 
-| Area | Highlights |
+| Area | Current Highlights |
 | --- | --- |
 | Main work | Cybersecurity tools, AI assistants, phishing detection, dashboards |
 | Current repos | TrustNet CyberCop, Local AI RAG Assistant, SafeLink AI, Team Task Manager |
